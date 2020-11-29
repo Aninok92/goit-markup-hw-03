@@ -154,7 +154,8 @@ img {
 }
 
 .hero-center-side {
-  padding: 200px 452px;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 
 .hero-title {
